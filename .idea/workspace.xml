@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b5d23b8-150d-4259-b583-369e0dc71d48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Factory2/DemoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton2/BookBorrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton2/BookSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton2/DemoSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory2/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory2/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory2/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,12 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoFactory">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Singleton2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoSingleton">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factory.Demo" />
       <module name="untitled2" />
@@ -71,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton2.DemoSingleton" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoSingleton" />
         <item itemvalue="Application.DemoFactory" />
         <item itemvalue="Application.Demo" />
       </list>
@@ -86,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678332488616</updated>
-      <workItem from="1678332569685" duration="5173000" />
+      <workItem from="1678332569685" duration="6904000" />
     </task>
     <servers />
   </component>
