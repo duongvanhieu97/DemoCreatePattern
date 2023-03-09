@@ -1,4 +1,9 @@
 package Factory2;
 
-public class Cle {
+public class Circle implements Shape {
+
+    @Override
+    public void draw() {
+
+    }
 }

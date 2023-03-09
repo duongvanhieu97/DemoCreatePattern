@@ -1,4 +1,5 @@
 package Factory2;
 
-public class Shape {
+public interface Shape {
+    public void draw();
 }

@@ -1,4 +1,5 @@
 package Factory;
 
-public class Bank {
+public abstract class Bank {
+    public abstract String getBankName();
 }

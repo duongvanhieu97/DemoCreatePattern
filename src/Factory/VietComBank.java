@@ -1,8 +1,8 @@
 package Factory;
 
-public class VietcomBank extends Bank {
+public class VietComBank extends Bank {
     @Override
     public String getBankName() {
-        return null;
+        return "VietComBank";
     }
 }
